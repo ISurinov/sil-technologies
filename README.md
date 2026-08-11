@@ -128,3 +128,4 @@ Navigation Officer | Maritime Researcher | AI & Maritime Technology
 ## License
 
 License and intellectual property policies will be defined as the technology portfolio develops.
+SIL Technologies is currently developing its research and technology foundation.
