@@ -36,8 +36,9 @@ env/
 *.log
 
 # Local research data
-data/raw/
-data/external/
+
+projects/ais-route-recommendation/data/raw/
+projects/ais-route-recommendation/data/external/
 
 # Large datasets
 *.parquet
